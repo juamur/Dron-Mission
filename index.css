@@ -1,0 +1,17 @@
+.contenedor{
+    margin-top: 10px; 
+    padding: 10px;
+    height: 90vh;
+
+}
+
+.marginComponent{
+    margin-bottom: 5px;
+}
+
+.mapContainer{
+    /*height: 90vh;
+    width: 100%;
+    padding: 10px;*/
+    background-color: #f0f0f0
+}
